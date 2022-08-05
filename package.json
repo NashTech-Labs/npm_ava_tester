@@ -1,0 +1,12 @@
+{
+	"name": "awesome-package",
+	"scripts": {
+		"test": "ava"
+	},
+	"devDependencies": {
+		"ava": "^1.0.0"
+	},
+	"dependencies": {
+		"latest-version": "^7.0.0"
+	}
+}
